@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Welcome to IRCTC"]],"1":[[" ","Varsha K"," ","IRCTC_Online_Manual"],[" ","1"]],"2":[[" ","Welcome to IRCTC"]],"3":[[" ","IRCTC Online Manual"]],"5":[[" ","Version 1.1"]],"6":[[" ","Varsha K","\n    TechnoKraft, Banglore"]],"id":"2"})

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"bmark1","type":"item","tilePath":"","description":"","url":"assets/IRCTC1/User_Registration.htm#bmark1"},{"name":"bmark2","type":"item","tilePath":"","description":"","url":"assets/IRCTC1/User_Registration.htm#bmark2"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
