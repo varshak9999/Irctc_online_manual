@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="IRCTC_Online_Manual" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="assets\IRCTC1\Welcome_to_IRCTC.htm">
+    
+    <topic>
+      assets\IRCTC1\Welcome_to_IRCTC.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC1\Introduction.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC1\Services_Offered.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC1\General.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC1\User_Registration.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\Ticket_Booking.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\Payment_Options.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC1\User_Login.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\PNR_Enquiry.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\Cancellation_Refund_Modification_of_Tickets.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Use_of_Tickets.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\Authorized_IDs_for_Travel.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC2\Complaints_Procedure.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Disclaimer.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Liability.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Privacy_Policy.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Rules_&amp;_Policies.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Termination.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\Your_Obligations.htm
+    </topic>
+    
+    <topic>
+      assets\IRCTC3\FAQ_s.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
